@@ -5,7 +5,7 @@
 #   brew install --cask --no-quarantine overdrive
 cask "overdrive" do
   version "1.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "0ef8e87c1bbf17bf9956a20059ab98584243bfe710d98c48611619ebcd7adccc"
 
   url "https://github.com/damionrashford/overdrive/releases/download/v#{version}/Overdrive-#{version}.dmg"
   name "Overdrive"
